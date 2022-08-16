@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad264ba0.chunk.css",
-    "main.js": "/static/js/main.d21528c7.chunk.js",
-    "main.js.map": "/static/js/main.d21528c7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5ce3e8f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5ce3e8f8.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.c4f58dc2.chunk.js": "/static/js/2.c4f58dc2.chunk.js",
-    "static/js/2.c4f58dc2.chunk.js.map": "/static/js/2.c4f58dc2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.ad264ba0.chunk.css.map": "/static/css/main.ad264ba0.chunk.css.map",
-    "static/js/2.c4f58dc2.chunk.js.LICENSE.txt": "/static/js/2.c4f58dc2.chunk.js.LICENSE.txt",
-    "static/media/addfile.c8772922.png": "/static/media/addfile.c8772922.png",
-    "static/media/glogo.42e0a7e4.png": "/static/media/glogo.42e0a7e4.png",
-    "static/media/newfile.6a7f6e79.ico": "/static/media/newfile.6a7f6e79.ico"
+    "main.css": "/gdrivefms/static/css/main.ad264ba0.chunk.css",
+    "main.js": "/gdrivefms/static/js/main.d21528c7.chunk.js",
+    "main.js.map": "/gdrivefms/static/js/main.d21528c7.chunk.js.map",
+    "runtime-main.js": "/gdrivefms/static/js/runtime-main.b5d54c6f.js",
+    "runtime-main.js.map": "/gdrivefms/static/js/runtime-main.b5d54c6f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/gdrivefms/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6d2c9b3a.chunk.js": "/gdrivefms/static/js/2.6d2c9b3a.chunk.js",
+    "static/js/2.6d2c9b3a.chunk.js.map": "/gdrivefms/static/js/2.6d2c9b3a.chunk.js.map",
+    "index.html": "/gdrivefms/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/gdrivefms/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ad264ba0.chunk.css.map": "/gdrivefms/static/css/main.ad264ba0.chunk.css.map",
+    "static/js/2.6d2c9b3a.chunk.js.LICENSE.txt": "/gdrivefms/static/js/2.6d2c9b3a.chunk.js.LICENSE.txt",
+    "static/media/addfile.c8772922.png": "/gdrivefms/static/media/addfile.c8772922.png",
+    "static/media/glogo.42e0a7e4.png": "/gdrivefms/static/media/glogo.42e0a7e4.png",
+    "static/media/newfile.6a7f6e79.ico": "/gdrivefms/static/media/newfile.6a7f6e79.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ce3e8f8.js",
+    "static/js/runtime-main.b5d54c6f.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.c4f58dc2.chunk.js",
+    "static/js/2.6d2c9b3a.chunk.js",
     "static/css/main.ad264ba0.chunk.css",
     "static/js/main.d21528c7.chunk.js"
   ]
